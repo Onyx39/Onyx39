@@ -2,9 +2,9 @@
 
 Hello, I am Valentin RICHARD
 
-I am a student in the engineering school Polytech Annecy. I am learning data science and IT project management and I will study software engineering and cybersecurity in Sherbrooke (Canada) next year. 
+I am currently a student at Sherbrooke's University (Québec, Canada) learning software engineering. I also study data science and IT project management in the Polyetch Annecy (France) engineering school. 
 
-You can find some of my projetcs here. Take care because some are abandonned or are waiting to be updated. The goal is to learn (code and git technology) and to show some little things I can do.
+You can find some of my projects here. Take care because some are abandoned or are waiting to be updated. The goal is to have fun, learn (some languages and git technology) and to show some little things I can do.
 
 
 
